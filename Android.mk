@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter curtana excalibur joyeuse,$(TARGET_DEVICE)),)
+ifneq ($(filter curtana,$(TARGET_DEVICE)),)
 
 endif
