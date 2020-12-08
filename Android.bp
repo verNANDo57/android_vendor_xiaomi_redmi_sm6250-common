@@ -379,3 +379,8 @@ dex_import {
 	jars: ["proprietary/framework/vendor.xiaomi.hardware.mtdservice-V1.0-java.jar"],
 }
 
+dex_import {
+	name: "com.android.mediadrm.signer",
+	owner: "xiaomi",
+	jars: ["proprietary/framework/com.android.mediadrm.signer.jar"],
+}
