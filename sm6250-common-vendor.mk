@@ -1060,8 +1060,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/vendor.xiaomi.hardware.mtdservice@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.xiaomi.hardware.mtdservice@1.2.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so \
-    vendor/xiaomi/sm6250-common/proprietary/lib64/libdrm.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libdrm.so \
-    vendor/xiaomi/sm6250-common/proprietary/lib/libdrm.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdrm.so \
     vendor/xiaomi/sm6250-common/proprietary/lib/libjni_resource_drm.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libjni_resource_drm.so \
     vendor/xiaomi/sm6250-common/proprietary/lib64/libjni_resource_drm.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libjni_resource_drm.so
    
