@@ -396,3 +396,9 @@ dex_import {
 	owner: "xiaomi",
 	jars: ["proprietary/framework/vendor.xiaomi.hardware.misys.V3_0.jar"],
 }
+
+dex_import {
+	name: "vendor.qti.hardware.alarm-V1.0-java",
+	owner: "xiaomi",
+	jars: ["proprietary/product/framework/vendor.qti.hardware.alarm-V1.0-java.jar"],
+}
